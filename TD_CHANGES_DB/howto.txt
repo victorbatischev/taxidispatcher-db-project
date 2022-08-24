@@ -1,0 +1,6 @@
+1. SQL_ONLY_FOR_EMPTY_DUMP.sql - проводить один раз только на пустом новом дампе, либо на старой рабочей БД, но учитывать изменения данных
+2. SQLQueryTDUpdateDDL.sql
+3. SQLQueryTDUpdateFUNC.sql
+4. SQLQueryTDUpdateVIEW.sql
+5. SQLQueryTDUpdatePROC.sql
+6. SQLQueryTDUpdateTRG.sql
